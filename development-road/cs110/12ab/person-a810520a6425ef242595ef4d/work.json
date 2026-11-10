@@ -7,6 +7,7 @@
       "id": "PERSON-A810520A6425EF242595EF4D",
       "name": "Isaias Gonzalez",
       "prep": "PREP-BA594AF95049458268DBB86B",
+      "pitch": "FORM-B883703959F0D5C2FC523F37",
       "verificationCode": "VIEW-96D81229B82D42821761D79C"
     },
     "draft": {
@@ -23,7 +24,7 @@
         "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
         "questions": "Out of everything in this pipeline which is more important and why."
       },
-      "currentPage": 24,
+      "currentPage": 27,
       "prepBoard": {
         "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
         "strokes": [
@@ -8192,11 +8193,18 @@
         "understand": "What I did was to learn more about game development and what are the most important step to take to success in it solo or in a team.",
         "offer": "I bring to the team is my problem solving skills and the help of understanding concepts. By that and the leadership of the leader and can go far above the stars into game development and other problems ahead of us and the team.",
         "limits": "What I still need to learn is the commination needed for better and stronger teamwork.",
-        "availability": "\nPreferred contact: Discord"
+        "availability": "\nPreferred contact: Text",
+        "tools": "The most used tool would be AI. The reason why is that AI can find errors us humans cannot find, so with the help of AI it can help us shoot above the sky and became a better team.",
+        "aiTool": "AI: ChatGPT\nTask: find errors that myself cannot find and give ideas on how to fix them.\nVerification: By having a history input of its actions"
       },
       "availability": {
         "notes": "",
-        "contact": "Discord"
+        "contact": "Text"
+      },
+      "aiPlan": {
+        "name": "ChatGPT",
+        "task": "find errors that myself cannot find and give ideas on how to fix them.",
+        "verify": "By having a history input of its actions"
       }
     },
     "receipts": [
@@ -16385,6 +16393,28 @@
           }
         },
         "digest": "e4b1ccce45f4b741bc530c2de05826b7d0bd15f5a792fb4826e4dd6759a86d5f"
+      },
+      {
+        "verificationCode": "VIEW-96D81229B82D42821761D79C",
+        "code": "FORM-B883703959F0D5C2FC523F37",
+        "kind": "pitch",
+        "name": "Isaias Gonzalez",
+        "person": "PERSON-A810520A6425EF242595EF4D",
+        "issued": "2026-11-10T23:24:50.689Z",
+        "data": {
+          "understand": "What I did was to learn more about game development and what are the most important step to take to success in it solo or in a team.",
+          "offer": "I bring to the team is my problem solving skills and the help of understanding concepts. By that and the leadership of the leader and can go far above the stars into game development and other problems ahead of us and the team.",
+          "limits": "What I still need to learn is the commination needed for better and stronger teamwork.",
+          "availability": "Preferred contact: Text",
+          "tools": "The most used tool would be AI. The reason why is that AI can find errors us humans cannot find, so with the help of AI it can help us shoot above the sky and became a better team.",
+          "aiTool": "AI: ChatGPT\nTask: find errors that myself cannot find and give ideas on how to fix them.\nVerification: By having a history input of its actions",
+          "ai": {
+            "name": "ChatGPT",
+            "task": "find errors that myself cannot find and give ideas on how to fix them.",
+            "verify": "By having a history input of its actions"
+          }
+        },
+        "digest": "afe600c4fc58e159f961125960140c75e7c53bdf7e08b40e161c6b2c5f2f90ab"
       }
     ],
     "clocks": [],
@@ -16405,7 +16435,7 @@
       "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
       "questions": "Out of everything in this pipeline which is more important and why."
     },
-    "currentPage": 24,
+    "currentPage": 27,
     "prepBoard": {
       "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
       "strokes": [
@@ -24574,17 +24604,24 @@
       "understand": "What I did was to learn more about game development and what are the most important step to take to success in it solo or in a team.",
       "offer": "I bring to the team is my problem solving skills and the help of understanding concepts. By that and the leadership of the leader and can go far above the stars into game development and other problems ahead of us and the team.",
       "limits": "What I still need to learn is the commination needed for better and stronger teamwork.",
-      "availability": "\nPreferred contact: Discord"
+      "availability": "\nPreferred contact: Text",
+      "tools": "The most used tool would be AI. The reason why is that AI can find errors us humans cannot find, so with the help of AI it can help us shoot above the sky and became a better team.",
+      "aiTool": "AI: ChatGPT\nTask: find errors that myself cannot find and give ideas on how to fix them.\nVerification: By having a history input of its actions"
     },
     "availability": {
       "notes": "",
-      "contact": "Discord"
+      "contact": "Text"
+    },
+    "aiPlan": {
+      "name": "ChatGPT",
+      "task": "find errors that myself cannot find and give ideas on how to fix them.",
+      "verify": "By having a history input of its actions"
     }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 24,
+    "lastPage": 27,
     "timerMinutes": 10
   }
 }

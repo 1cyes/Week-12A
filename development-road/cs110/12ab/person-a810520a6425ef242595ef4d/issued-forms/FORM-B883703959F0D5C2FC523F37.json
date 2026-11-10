@@ -1,0 +1,22 @@
+{
+  "verificationCode": "VIEW-96D81229B82D42821761D79C",
+  "code": "FORM-B883703959F0D5C2FC523F37",
+  "kind": "pitch",
+  "name": "Isaias Gonzalez",
+  "person": "PERSON-A810520A6425EF242595EF4D",
+  "issued": "2026-11-10T23:24:50.689Z",
+  "data": {
+    "understand": "What I did was to learn more about game development and what are the most important step to take to success in it solo or in a team.",
+    "offer": "I bring to the team is my problem solving skills and the help of understanding concepts. By that and the leadership of the leader and can go far above the stars into game development and other problems ahead of us and the team.",
+    "limits": "What I still need to learn is the commination needed for better and stronger teamwork.",
+    "availability": "Preferred contact: Text",
+    "tools": "The most used tool would be AI. The reason why is that AI can find errors us humans cannot find, so with the help of AI it can help us shoot above the sky and became a better team.",
+    "aiTool": "AI: ChatGPT\nTask: find errors that myself cannot find and give ideas on how to fix them.\nVerification: By having a history input of its actions",
+    "ai": {
+      "name": "ChatGPT",
+      "task": "find errors that myself cannot find and give ideas on how to fix them.",
+      "verify": "By having a history input of its actions"
+    }
+  },
+  "digest": "afe600c4fc58e159f961125960140c75e7c53bdf7e08b40e161c6b2c5f2f90ab"
+}
