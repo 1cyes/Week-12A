@@ -15,9 +15,9 @@
         "access": "What I tested was when backing up from the website, would it backup in the GitHub repository. When my team and I did this task we learned that it was a success.",
         "video1": "First I saw and listened to the video. Then observed that into game development you need to having a growth mindset, great folder structure ( be organized), and have documentation ( for better understanding of the thing that are needed to do and knowing how to do such thing). ",
         "video2": "What I did was to listen the video. Then I observed what needed to be done to have a developer mindset and which was to essentially success in the complex and challenging world of game development , by practical strategies  to overcome common obstacles, as technical issues, while maintaining motivation through organization and continuous learning.",
-        "video3": "What I did was to observed the video about "
+        "video3": "What I did was to observed the video about folder structure and what it the best way into doing it. And by the video leaners needs to highlight the important folder structure to improve team efficiency and project management. Then the leader demonstrates how to use a extensions like the Talstra Folder Maker application (showed in the video) that uses custom JSON templates to automate the creation of a essential documentation and project logs."
       },
-      "currentPage": 13
+      "currentPage": 14
     },
     "receipts": [],
     "clocks": [],
@@ -31,14 +31,14 @@
       "access": "What I tested was when backing up from the website, would it backup in the GitHub repository. When my team and I did this task we learned that it was a success.",
       "video1": "First I saw and listened to the video. Then observed that into game development you need to having a growth mindset, great folder structure ( be organized), and have documentation ( for better understanding of the thing that are needed to do and knowing how to do such thing). ",
       "video2": "What I did was to listen the video. Then I observed what needed to be done to have a developer mindset and which was to essentially success in the complex and challenging world of game development , by practical strategies  to overcome common obstacles, as technical issues, while maintaining motivation through organization and continuous learning.",
-      "video3": "What I did was to observed the video about "
+      "video3": "What I did was to observed the video about folder structure and what it the best way into doing it. And by the video leaners needs to highlight the important folder structure to improve team efficiency and project management. Then the leader demonstrates how to use a extensions like the Talstra Folder Maker application (showed in the video) that uses custom JSON templates to automate the creation of a essential documentation and project logs."
     },
-    "currentPage": 13
+    "currentPage": 14
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 13,
+    "lastPage": 14,
     "timerMinutes": 10
   }
 }
