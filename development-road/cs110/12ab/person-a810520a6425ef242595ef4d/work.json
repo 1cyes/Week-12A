@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "course": "CS110",
+  "assignment": "independence-12ab",
+  "state": {
+    "me": {
+      "id": "PERSON-A810520A6425EF242595EF4D",
+      "name": "Isaias Gonzalez",
+      "verificationCode": "VIEW-96D81229B82D42821761D79C"
+    },
+    "draft": {
+      "prep": {
+        "repo": "https://github.com/1cyes/Week-12A"
+      },
+      "currentPage": 9
+    },
+    "receipts": [],
+    "clocks": [],
+    "team": null,
+    "invites": []
+  },
+  "draft": {
+    "prep": {
+      "repo": "https://github.com/1cyes/Week-12A"
+    },
+    "currentPage": 9
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 9,
+    "timerMinutes": 10
+  }
+}
