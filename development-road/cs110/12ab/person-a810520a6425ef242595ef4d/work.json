@@ -18,9 +18,10 @@
         "video3": "What I did was to observed the video about folder structure and what it the best way into doing it. And by the video leaners needs to highlight the important folder structure to improve team efficiency and project management. Then the leader demonstrates how to use a extensions like the Talstra Folder Maker application (showed in the video) that uses custom JSON templates to automate the creation of a essential documentation and project logs.",
         "video4": "What I did was to observed the video about documentation and organizing project and what is the best way to do it. Which is by  using a pre-established folder structure. Then the leader demonstrates how to customize a Game Development Document template and explains the function of key project folders like resources, assets, and study area. Also to outline structures to a four-step pipeline to help teams manage their game development process from initial setup through to publishing.",
         "video5": "What I did was to observed the video about Intro to Unity. It helps beginners to set up Unity projects and emphasizing proper file management to avoid directory errors. Shows the essentials of the Unity interface and demonstrates basic navigation and character movement controls. The goal is to establish a functional 3D game foundation using a pre-built template, which will be further customized in the future.",
-        "video6": "What I did was to observed the video about how to "
+        "video6": "What I did was to observed the video about how to import a custom player of your own. And how to do it was by configuring the proper humanoid rig and applying embedded materials. Then the video further explains how to replace a default player mesh by unpacking its prefab and assigning a new avatar to the armature for gameplay integration.",
+        "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell    "
       },
-      "currentPage": 16
+      "currentPage": 17
     },
     "receipts": [],
     "clocks": [],
@@ -37,14 +38,15 @@
       "video3": "What I did was to observed the video about folder structure and what it the best way into doing it. And by the video leaners needs to highlight the important folder structure to improve team efficiency and project management. Then the leader demonstrates how to use a extensions like the Talstra Folder Maker application (showed in the video) that uses custom JSON templates to automate the creation of a essential documentation and project logs.",
       "video4": "What I did was to observed the video about documentation and organizing project and what is the best way to do it. Which is by  using a pre-established folder structure. Then the leader demonstrates how to customize a Game Development Document template and explains the function of key project folders like resources, assets, and study area. Also to outline structures to a four-step pipeline to help teams manage their game development process from initial setup through to publishing.",
       "video5": "What I did was to observed the video about Intro to Unity. It helps beginners to set up Unity projects and emphasizing proper file management to avoid directory errors. Shows the essentials of the Unity interface and demonstrates basic navigation and character movement controls. The goal is to establish a functional 3D game foundation using a pre-built template, which will be further customized in the future.",
-      "video6": "What I did was to observed the video about how to "
+      "video6": "What I did was to observed the video about how to import a custom player of your own. And how to do it was by configuring the proper humanoid rig and applying embedded materials. Then the video further explains how to replace a default player mesh by unpacking its prefab and assigning a new avatar to the armature for gameplay integration.",
+      "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell    "
     },
-    "currentPage": 16
+    "currentPage": 17
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 16,
+    "lastPage": 17,
     "timerMinutes": 10
   }
 }
