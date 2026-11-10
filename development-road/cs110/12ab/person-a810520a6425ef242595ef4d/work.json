@@ -13,9 +13,10 @@
         "repo": "https://github.com/1cyes/Week-12A",
         "gitTest": "What I did was decide to use the correct repository to use for this assignment. I connected the repository with the website so every saved from the website will be connected straight to the repository I connected. The evidence is https://github.com/1cyes/Week-12A.git, this is evidence by opening up that GitHub link you would see every change I did here be there recorded into the repository.",
         "access": "What I tested was when backing up from the website, would it backup in the GitHub repository. When my team and I did this task we learned that it was a success.",
-        "video1": "First I saw and listened to the video. Then observed that into game development you need to having a growth mindset, great folder structure ( be organized), and have documentation ( for better understanding of the thing that are needed to do and knowing how to do such thing). "
+        "video1": "First I saw and listened to the video. Then observed that into game development you need to having a growth mindset, great folder structure ( be organized), and have documentation ( for better understanding of the thing that are needed to do and knowing how to do such thing). ",
+        "video2": "What I did was to listen the video. Then I observed what needed to be done to have a developer mindset and which was to essentially success in the complex and challenging world of game development , by practical strategies  to overcome common obstacles, as technical issues, while maintaining motivation through organization and continuous learning."
       },
-      "currentPage": 12
+      "currentPage": 10
     },
     "receipts": [],
     "clocks": [],
@@ -27,14 +28,15 @@
       "repo": "https://github.com/1cyes/Week-12A",
       "gitTest": "What I did was decide to use the correct repository to use for this assignment. I connected the repository with the website so every saved from the website will be connected straight to the repository I connected. The evidence is https://github.com/1cyes/Week-12A.git, this is evidence by opening up that GitHub link you would see every change I did here be there recorded into the repository.",
       "access": "What I tested was when backing up from the website, would it backup in the GitHub repository. When my team and I did this task we learned that it was a success.",
-      "video1": "First I saw and listened to the video. Then observed that into game development you need to having a growth mindset, great folder structure ( be organized), and have documentation ( for better understanding of the thing that are needed to do and knowing how to do such thing). "
+      "video1": "First I saw and listened to the video. Then observed that into game development you need to having a growth mindset, great folder structure ( be organized), and have documentation ( for better understanding of the thing that are needed to do and knowing how to do such thing). ",
+      "video2": "What I did was to listen the video. Then I observed what needed to be done to have a developer mindset and which was to essentially success in the complex and challenging world of game development , by practical strategies  to overcome common obstacles, as technical issues, while maintaining motivation through organization and continuous learning."
     },
-    "currentPage": 12
+    "currentPage": 10
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 12,
+    "lastPage": 10,
     "timerMinutes": 10
   }
 }
