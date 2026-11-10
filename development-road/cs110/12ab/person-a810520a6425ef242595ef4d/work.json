@@ -17,9 +17,10 @@
         "video2": "What I did was to listen the video. Then I observed what needed to be done to have a developer mindset and which was to essentially success in the complex and challenging world of game development , by practical strategies  to overcome common obstacles, as technical issues, while maintaining motivation through organization and continuous learning.",
         "video3": "What I did was to observed the video about folder structure and what it the best way into doing it. And by the video leaners needs to highlight the important folder structure to improve team efficiency and project management. Then the leader demonstrates how to use a extensions like the Talstra Folder Maker application (showed in the video) that uses custom JSON templates to automate the creation of a essential documentation and project logs.",
         "video4": "What I did was to observed the video about documentation and organizing project and what is the best way to do it. Which is by  using a pre-established folder structure. Then the leader demonstrates how to customize a Game Development Document template and explains the function of key project folders like resources, assets, and study area. Also to outline structures to a four-step pipeline to help teams manage their game development process from initial setup through to publishing.",
-        "video5": "What I did was to observed the video about "
+        "video5": "What I did was to observed the video about Intro to Unity. It helps beginners to set up Unity projects and emphasizing proper file management to avoid directory errors. Shows the essentials of the Unity interface and demonstrates basic navigation and character movement controls. The goal is to establish a functional 3D game foundation using a pre-built template, which will be further customized in the future.",
+        "video6": "What I did was to observed the video about how to "
       },
-      "currentPage": 15
+      "currentPage": 16
     },
     "receipts": [],
     "clocks": [],
@@ -35,14 +36,15 @@
       "video2": "What I did was to listen the video. Then I observed what needed to be done to have a developer mindset and which was to essentially success in the complex and challenging world of game development , by practical strategies  to overcome common obstacles, as technical issues, while maintaining motivation through organization and continuous learning.",
       "video3": "What I did was to observed the video about folder structure and what it the best way into doing it. And by the video leaners needs to highlight the important folder structure to improve team efficiency and project management. Then the leader demonstrates how to use a extensions like the Talstra Folder Maker application (showed in the video) that uses custom JSON templates to automate the creation of a essential documentation and project logs.",
       "video4": "What I did was to observed the video about documentation and organizing project and what is the best way to do it. Which is by  using a pre-established folder structure. Then the leader demonstrates how to customize a Game Development Document template and explains the function of key project folders like resources, assets, and study area. Also to outline structures to a four-step pipeline to help teams manage their game development process from initial setup through to publishing.",
-      "video5": "What I did was to observed the video about "
+      "video5": "What I did was to observed the video about Intro to Unity. It helps beginners to set up Unity projects and emphasizing proper file management to avoid directory errors. Shows the essentials of the Unity interface and demonstrates basic navigation and character movement controls. The goal is to establish a functional 3D game foundation using a pre-built template, which will be further customized in the future.",
+      "video6": "What I did was to observed the video about how to "
     },
-    "currentPage": 15
+    "currentPage": 16
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 15,
+    "lastPage": 16,
     "timerMinutes": 10
   }
 }
