@@ -23,7 +23,7 @@
         "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
         "questions": "Out of everything in this pipeline which is more important and why."
       },
-      "currentPage": 20,
+      "currentPage": 24,
       "prepBoard": {
         "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
         "strokes": [
@@ -8187,6 +8187,16 @@
           "color": "#153f48",
           "size": 2
         }
+      },
+      "pitch": {
+        "understand": "What I did was to learn more about game development and what are the most important step to take to success in it solo or in a team.",
+        "offer": "I bring to the team is my problem solving skills and the help of understanding concepts. By that and the leadership of the leader and can go far above the stars into game development and other problems ahead of us and the team.",
+        "limits": "What I still need to learn is the commination needed for better and stronger teamwork.",
+        "availability": "\nPreferred contact: Discord"
+      },
+      "availability": {
+        "notes": "",
+        "contact": "Discord"
       }
     },
     "receipts": [
@@ -16395,7 +16405,7 @@
       "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
       "questions": "Out of everything in this pipeline which is more important and why."
     },
-    "currentPage": 20,
+    "currentPage": 24,
     "prepBoard": {
       "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
       "strokes": [
@@ -24559,12 +24569,22 @@
         "color": "#153f48",
         "size": 2
       }
+    },
+    "pitch": {
+      "understand": "What I did was to learn more about game development and what are the most important step to take to success in it solo or in a team.",
+      "offer": "I bring to the team is my problem solving skills and the help of understanding concepts. By that and the leadership of the leader and can go far above the stars into game development and other problems ahead of us and the team.",
+      "limits": "What I still need to learn is the commination needed for better and stronger teamwork.",
+      "availability": "\nPreferred contact: Discord"
+    },
+    "availability": {
+      "notes": "",
+      "contact": "Discord"
     }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 20,
+    "lastPage": 24,
     "timerMinutes": 10
   }
 }
