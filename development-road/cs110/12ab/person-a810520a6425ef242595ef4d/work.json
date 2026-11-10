@@ -6496,7 +6496,117 @@
             "w": 0.18,
             "h": 0.14,
             "color": "#153f48",
-            "text": ""
+            "text": "Developer Mindset"
+          },
+          {
+            "id": "bda6c497-3751-442f-8de0-302ac11db48c",
+            "kind": "rect",
+            "x": 0.40423421173140167,
+            "y": 0.033526861399071725,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Game Development"
+          },
+          {
+            "id": "d8dd3add-8076-43c1-9789-b752e68d0f2a",
+            "kind": "rect",
+            "x": 0.08184963157237418,
+            "y": 0.2949981934910091,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Folder Structure"
+          },
+          {
+            "id": "904e13e3-a29f-40ee-93ab-d7cd4badff25",
+            "kind": "rect",
+            "x": 0.7732446609216934,
+            "y": 0.41772963508518374,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Growth mindset and problem-solving"
+          },
+          {
+            "id": "c95bd9cc-0836-4002-ad47-22726e97a2c7",
+            "kind": "rect",
+            "x": 0.6759964197993424,
+            "y": 0.14558600372418773,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Organize files and folders"
+          },
+          {
+            "id": "86024824-bd16-4257-b246-744bf899f7db",
+            "kind": "rect",
+            "x": 0.281674784563507,
+            "y": 0.4319593674439287,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Introduction to Unity"
+          },
+          {
+            "id": "c2de744e-b72e-4da5-bfc7-561636e9e017",
+            "kind": "rect",
+            "x": 0.477503434494817,
+            "y": 0.547575942858731,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Learn Unity interface and controls"
+          },
+          {
+            "id": "2ea6cd94-5efe-41f3-b084-8f0873b373ac",
+            "kind": "rect",
+            "x": 0.2656887723242164,
+            "y": 0.8214982907645701,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Creating a 3D Game"
+          },
+          {
+            "id": "38470b6d-f4ee-4382-8fbc-4d0877349447",
+            "kind": "rect",
+            "x": 0.4814999375546398,
+            "y": 0.3857127372780077,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Use templates, project logs and documentation"
+          },
+          {
+            "id": "99b95539-8f82-4474-9dd0-9ccb12e03196",
+            "kind": "rect",
+            "x": 0.4615174222555264,
+            "y": 0.7378986131569435,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Configure humanoid rig and player materials"
+          },
+          {
+            "id": "5eaa1e18-b7d1-4500-b270-027d03221329",
+            "kind": "rect",
+            "x": 0.3109824736688731,
+            "y": 0.2487515633250884,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Documentation & Organization"
+          },
+          {
+            "id": "85efa1d6-2b54-4bab-9d06-58a62e649110",
+            "kind": "rect",
+            "x": 0.27501394613046926,
+            "y": 0.6222820377421416,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "Importing a Custom Player"
           }
         ],
         "edges": [],
@@ -12999,7 +13109,117 @@
           "w": 0.18,
           "h": 0.14,
           "color": "#153f48",
-          "text": ""
+          "text": "Developer Mindset"
+        },
+        {
+          "id": "bda6c497-3751-442f-8de0-302ac11db48c",
+          "kind": "rect",
+          "x": 0.40423421173140167,
+          "y": 0.033526861399071725,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Game Development"
+        },
+        {
+          "id": "d8dd3add-8076-43c1-9789-b752e68d0f2a",
+          "kind": "rect",
+          "x": 0.08184963157237418,
+          "y": 0.2949981934910091,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Folder Structure"
+        },
+        {
+          "id": "904e13e3-a29f-40ee-93ab-d7cd4badff25",
+          "kind": "rect",
+          "x": 0.7732446609216934,
+          "y": 0.41772963508518374,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Growth mindset and problem-solving"
+        },
+        {
+          "id": "c95bd9cc-0836-4002-ad47-22726e97a2c7",
+          "kind": "rect",
+          "x": 0.6759964197993424,
+          "y": 0.14558600372418773,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Organize files and folders"
+        },
+        {
+          "id": "86024824-bd16-4257-b246-744bf899f7db",
+          "kind": "rect",
+          "x": 0.281674784563507,
+          "y": 0.4319593674439287,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Introduction to Unity"
+        },
+        {
+          "id": "c2de744e-b72e-4da5-bfc7-561636e9e017",
+          "kind": "rect",
+          "x": 0.477503434494817,
+          "y": 0.547575942858731,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Learn Unity interface and controls"
+        },
+        {
+          "id": "2ea6cd94-5efe-41f3-b084-8f0873b373ac",
+          "kind": "rect",
+          "x": 0.2656887723242164,
+          "y": 0.8214982907645701,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Creating a 3D Game"
+        },
+        {
+          "id": "38470b6d-f4ee-4382-8fbc-4d0877349447",
+          "kind": "rect",
+          "x": 0.4814999375546398,
+          "y": 0.3857127372780077,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Use templates, project logs and documentation"
+        },
+        {
+          "id": "99b95539-8f82-4474-9dd0-9ccb12e03196",
+          "kind": "rect",
+          "x": 0.4615174222555264,
+          "y": 0.7378986131569435,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Configure humanoid rig and player materials"
+        },
+        {
+          "id": "5eaa1e18-b7d1-4500-b270-027d03221329",
+          "kind": "rect",
+          "x": 0.3109824736688731,
+          "y": 0.2487515633250884,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Documentation & Organization"
+        },
+        {
+          "id": "85efa1d6-2b54-4bab-9d06-58a62e649110",
+          "kind": "rect",
+          "x": 0.27501394613046926,
+          "y": 0.6222820377421416,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Importing a Custom Player"
         }
       ],
       "edges": [],
