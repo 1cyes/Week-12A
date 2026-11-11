@@ -8209,7 +8209,7 @@
       "huddle": {
         "mission": "A story I want to see a Minecraft mod a playable goal is to throw a poke-ball at a Minecraft mob",
         "framework": "My team choose P2P for simple fact it will help us use oganized sources and help us with engine setup.",
-        "pipeline": "Unnamed stage\nStory goal · 2026-11-10T12:45 to 2026-11-10T13:45 Pacific\noutput/scene\nbuild/configure\ninputs/assets\ntest+ handoff\nthe diagram shows a five-step workflow moving from defining a story goal, gathering inputs, building, and rendering an output to final testing and handoff."
+        "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\noutput/scene\nbuild/configure\ninputs/assets\ntest+ handoff\nthe diagram shows a five-step workflow moving from defining a story goal, gathering inputs, building, and rendering an output to final testing and handoff."
       },
       "pipelineBoard": {
         "notes": "the diagram shows a five-step workflow moving from defining a story goal, gathering inputs, building, and rendering an output to final testing and handoff.",
@@ -8973,9 +8973,10 @@
             "w": 0.31617651791456847,
             "h": 0.11736563243951459,
             "color": "#153f48",
-            "text": "Story goal",
-            "start": "2026-11-10T12:45",
-            "end": "2026-11-10T13:45"
+            "text": "Background",
+            "start": "2026-11-11T15:45",
+            "end": "2026-11-11T16:30",
+            "owner": "Jonathan"
           },
           {
             "id": "db1047b8-d5fc-40af-ab8f-28474adba8b5",
@@ -25434,7 +25435,7 @@
     "huddle": {
       "mission": "A story I want to see a Minecraft mod a playable goal is to throw a poke-ball at a Minecraft mob",
       "framework": "My team choose P2P for simple fact it will help us use oganized sources and help us with engine setup.",
-      "pipeline": "Unnamed stage\nStory goal · 2026-11-10T12:45 to 2026-11-10T13:45 Pacific\noutput/scene\nbuild/configure\ninputs/assets\ntest+ handoff\nthe diagram shows a five-step workflow moving from defining a story goal, gathering inputs, building, and rendering an output to final testing and handoff."
+      "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\noutput/scene\nbuild/configure\ninputs/assets\ntest+ handoff\nthe diagram shows a five-step workflow moving from defining a story goal, gathering inputs, building, and rendering an output to final testing and handoff."
     },
     "pipelineBoard": {
       "notes": "the diagram shows a five-step workflow moving from defining a story goal, gathering inputs, building, and rendering an output to final testing and handoff.",
@@ -26198,9 +26199,10 @@
           "w": 0.31617651791456847,
           "h": 0.11736563243951459,
           "color": "#153f48",
-          "text": "Story goal",
-          "start": "2026-11-10T12:45",
-          "end": "2026-11-10T13:45"
+          "text": "Background",
+          "start": "2026-11-11T15:45",
+          "end": "2026-11-11T16:30",
+          "owner": "Jonathan"
         },
         {
           "id": "db1047b8-d5fc-40af-ab8f-28474adba8b5",
