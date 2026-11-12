@@ -24,7 +24,7 @@
         "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
         "questions": "Out of everything in this pipeline which is more important and why."
       },
-      "currentPage": 40,
+      "currentPage": 43,
       "prepBoard": {
         "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
         "strokes": [
@@ -10804,7 +10804,9 @@
         "edges": []
       },
       "reportA": {
-        "checkpoint": "What myself and team accomplished today was to give each teammate a task and what they are doing to do "
+        "checkpoint": "What myself and team accomplished today was to give each teammate a task and what they are doing to do to success this project.",
+        "evidence": "https://github.com/1cyes/Week-12A.git",
+        "next": "The next step is to have another clear disscussion with my teammates and figure out what should we do after we plan everything out, what would be our first step."
       }
     },
     "receipts": [
@@ -19035,7 +19037,7 @@
       "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
       "questions": "Out of everything in this pipeline which is more important and why."
     },
-    "currentPage": 40,
+    "currentPage": 43,
     "prepBoard": {
       "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
       "strokes": [
@@ -29815,13 +29817,15 @@
       "edges": []
     },
     "reportA": {
-      "checkpoint": "What myself and team accomplished today was to give each teammate a task and what they are doing to do "
+      "checkpoint": "What myself and team accomplished today was to give each teammate a task and what they are doing to do to success this project.",
+      "evidence": "https://github.com/1cyes/Week-12A.git",
+      "next": "The next step is to have another clear disscussion with my teammates and figure out what should we do after we plan everything out, what would be our first step."
     }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 40,
+    "lastPage": 43,
     "timerMinutes": 10
   }
 }
