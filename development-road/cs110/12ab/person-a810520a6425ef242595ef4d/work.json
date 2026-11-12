@@ -24,7 +24,7 @@
         "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
         "questions": "Out of everything in this pipeline which is more important and why."
       },
-      "currentPage": 39,
+      "currentPage": 48,
       "prepBoard": {
         "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
         "strokes": [
@@ -16753,7 +16753,13 @@
           "result": ""
         }
       ],
-      "planRevision": 9
+      "planRevision": 9,
+      "dayBReview": {
+        "recap": "What I understand that our team is going to make a mob about pokemon and minecraft together. My job to the team is to make the building structures and world map. I can strongly say I have no confusion about this team project.",
+        "goal": true,
+        "owners": true,
+        "blockers": true
+      }
     },
     "receipts": [
       {
@@ -38383,6 +38389,22 @@
                 "restoredPoints": 0,
                 "approvedAt": null
               }
+            },
+            {
+              "code": "TIME-00B489C2C896A56827E9B28F",
+              "name": "Paul Duarte",
+              "day": "B",
+              "arrival": "2026-11-12T21:40:49.268Z",
+              "start": "2026-11-12T20:45:00Z",
+              "calculated": 55,
+              "deduction": 20,
+              "status": "Calculated · awaiting instructor review",
+              "recovery": {
+                "status": "Not requested",
+                "requestedAt": null,
+                "restoredPoints": 0,
+                "approvedAt": null
+              }
             }
           ]
         },
@@ -42733,7 +42755,7 @@
       "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
       "questions": "Out of everything in this pipeline which is more important and why."
     },
-    "currentPage": 39,
+    "currentPage": 48,
     "prepBoard": {
       "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
       "strokes": [
@@ -59462,12 +59484,18 @@
         "result": ""
       }
     ],
-    "planRevision": 9
+    "planRevision": 9,
+    "dayBReview": {
+      "recap": "What I understand that our team is going to make a mob about pokemon and minecraft together. My job to the team is to make the building structures and world map. I can strongly say I have no confusion about this team project.",
+      "goal": true,
+      "owners": true,
+      "blockers": true
+    }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 39,
+    "lastPage": 48,
     "timerMinutes": 10
   }
 }
