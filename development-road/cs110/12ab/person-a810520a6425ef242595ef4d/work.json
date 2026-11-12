@@ -24,7 +24,7 @@
         "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
         "questions": "Out of everything in this pipeline which is more important and why."
       },
-      "currentPage": 33,
+      "currentPage": 34,
       "prepBoard": {
         "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
         "strokes": [
@@ -8211,7 +8211,8 @@
         "framework": "My team choose P2P for simple fact it will help us use oganized sources and help us with engine setup.",
         "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ninputs/assets · owner mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nbuild/configure   · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\noutput/scene   · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ntest+ handoff   · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\n\nInputs/assets- Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput/scene-\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\ntest+handoff-\n We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
         "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub and Package manager. We chose this because based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with.",
-        "code": "Classes & components\nClass | Responsibility | GameObject\npokeballitem | allows the player to throw poke balls | poke ball\npokeballprojectile | handles poke ball throwing and conllions  | projectile\nmobcapturesystem | detects and captures minecraft mobs | Minecraft Mobs\npokemonbiome | adds pokemon-theme biomes | biome\npokemonstructures | generaters pokemon-themed buildings and locations | world structures\n\nVariables / properties\nName : type | Value / purpose | Used by\npokeballcount:int | the number of poke ball the player has | poke ball item\ntargetmob: Enity  | stores the minecraft mob being targeted | pokeballprojectile\ncapturechance: float  | detemines the chance of capturing mob | mopcapturesystem\nworldseed: long | helps generate the custom pokemon-inspired world | pokemonworldgenerator\nbiometype:string | determine | "
+        "code": "Classes & components\nClass | Responsibility | GameObject\npokeballitem | allows the player to throw poke balls | poke ball\npokeballprojectile | handles poke ball throwing and conllions  | projectile\nmobcapturesystem | detects and captures minecraft mobs | Minecraft Mobs\npokemonbiome | adds pokemon-theme biomes | biome\npokemonstructures | generaters pokemon-themed buildings and locations | world structures\n\nVariables / properties\nName : type | Value / purpose | Used by\npokeballcount:int | the number of poke ball the player has | poke ball item\ntargetmob: Enity  | stores the minecraft mob being targeted | pokeballprojectile\ncapturechance: float  | detemines the chance of capturing mob | mopcapturesystem\nworldseed: long | helps generate the custom pokemon-inspired world | pokemonworldgenerator\nbiometype:string | determines which pokemon-inspired biome generates | pokemon biome",
+        "communication": "Working agreements\nAgreement | Owner / where recorded | Confirmed\nDIscord call | 20:00 | [x]\n\nTeam check-ins\nDescription / contact / owner | When · Pacific | Agreed\nleader starts the call/texts if we are ready | every Wednesdays | [x]"
       },
       "pipelineBoard": {
         "notes": "Background-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\n\nInputs/assets- Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput/scene-\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\ntest+handoff-\n We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
@@ -10634,8 +10635,60 @@
             ],
             [
               "biometype:string",
-              "determine",
-              ""
+              "determines which pokemon-inspired biome generates",
+              "pokemon biome"
+            ]
+          ]
+        }
+      ],
+      "communicationTables": [
+        {
+          "id": "98c1d892-507b-4f45-82ff-e82a3573b976",
+          "title": "Working agreements",
+          "columns": [
+            {
+              "label": "Agreement",
+              "type": "text"
+            },
+            {
+              "label": "Owner / where recorded",
+              "type": "time"
+            },
+            {
+              "label": "Confirmed",
+              "type": "checkbox"
+            }
+          ],
+          "rows": [
+            [
+              "DIscord call",
+              "20:00",
+              true
+            ]
+          ]
+        },
+        {
+          "id": "b2aac1b0-754d-4f2c-80cb-528b937d2c38",
+          "title": "Team check-ins",
+          "columns": [
+            {
+              "label": "Description / contact / owner",
+              "type": "text"
+            },
+            {
+              "label": "When · Pacific",
+              "type": "text"
+            },
+            {
+              "label": "Agreed",
+              "type": "checkbox"
+            }
+          ],
+          "rows": [
+            [
+              "leader starts the call/texts if we are ready",
+              "every Wednesdays",
+              true
             ]
           ]
         }
@@ -18869,7 +18922,7 @@
       "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
       "questions": "Out of everything in this pipeline which is more important and why."
     },
-    "currentPage": 33,
+    "currentPage": 34,
     "prepBoard": {
       "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
       "strokes": [
@@ -27056,7 +27109,8 @@
       "framework": "My team choose P2P for simple fact it will help us use oganized sources and help us with engine setup.",
       "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ninputs/assets · owner mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nbuild/configure   · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\noutput/scene   · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ntest+ handoff   · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\n\nInputs/assets- Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput/scene-\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\ntest+handoff-\n We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
       "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub and Package manager. We chose this because based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with.",
-      "code": "Classes & components\nClass | Responsibility | GameObject\npokeballitem | allows the player to throw poke balls | poke ball\npokeballprojectile | handles poke ball throwing and conllions  | projectile\nmobcapturesystem | detects and captures minecraft mobs | Minecraft Mobs\npokemonbiome | adds pokemon-theme biomes | biome\npokemonstructures | generaters pokemon-themed buildings and locations | world structures\n\nVariables / properties\nName : type | Value / purpose | Used by\npokeballcount:int | the number of poke ball the player has | poke ball item\ntargetmob: Enity  | stores the minecraft mob being targeted | pokeballprojectile\ncapturechance: float  | detemines the chance of capturing mob | mopcapturesystem\nworldseed: long | helps generate the custom pokemon-inspired world | pokemonworldgenerator\nbiometype:string | determine | "
+      "code": "Classes & components\nClass | Responsibility | GameObject\npokeballitem | allows the player to throw poke balls | poke ball\npokeballprojectile | handles poke ball throwing and conllions  | projectile\nmobcapturesystem | detects and captures minecraft mobs | Minecraft Mobs\npokemonbiome | adds pokemon-theme biomes | biome\npokemonstructures | generaters pokemon-themed buildings and locations | world structures\n\nVariables / properties\nName : type | Value / purpose | Used by\npokeballcount:int | the number of poke ball the player has | poke ball item\ntargetmob: Enity  | stores the minecraft mob being targeted | pokeballprojectile\ncapturechance: float  | detemines the chance of capturing mob | mopcapturesystem\nworldseed: long | helps generate the custom pokemon-inspired world | pokemonworldgenerator\nbiometype:string | determines which pokemon-inspired biome generates | pokemon biome",
+      "communication": "Working agreements\nAgreement | Owner / where recorded | Confirmed\nDIscord call | 20:00 | [x]\n\nTeam check-ins\nDescription / contact / owner | When · Pacific | Agreed\nleader starts the call/texts if we are ready | every Wednesdays | [x]"
     },
     "pipelineBoard": {
       "notes": "Background-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\n\nInputs/assets- Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput/scene-\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\ntest+handoff-\n We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
@@ -29479,8 +29533,60 @@
           ],
           [
             "biometype:string",
-            "determine",
-            ""
+            "determines which pokemon-inspired biome generates",
+            "pokemon biome"
+          ]
+        ]
+      }
+    ],
+    "communicationTables": [
+      {
+        "id": "98c1d892-507b-4f45-82ff-e82a3573b976",
+        "title": "Working agreements",
+        "columns": [
+          {
+            "label": "Agreement",
+            "type": "text"
+          },
+          {
+            "label": "Owner / where recorded",
+            "type": "time"
+          },
+          {
+            "label": "Confirmed",
+            "type": "checkbox"
+          }
+        ],
+        "rows": [
+          [
+            "DIscord call",
+            "20:00",
+            true
+          ]
+        ]
+      },
+      {
+        "id": "b2aac1b0-754d-4f2c-80cb-528b937d2c38",
+        "title": "Team check-ins",
+        "columns": [
+          {
+            "label": "Description / contact / owner",
+            "type": "text"
+          },
+          {
+            "label": "When · Pacific",
+            "type": "text"
+          },
+          {
+            "label": "Agreed",
+            "type": "checkbox"
+          }
+        ],
+        "rows": [
+          [
+            "leader starts the call/texts if we are ready",
+            "every Wednesdays",
+            true
           ]
         ]
       }
@@ -29489,7 +29595,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 33,
+    "lastPage": 34,
     "timerMinutes": 10
   }
 }
