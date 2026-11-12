@@ -19054,6 +19054,22 @@
           "restoredPoints": 0,
           "approvedAt": null
         }
+      },
+      {
+        "code": "TIME-9E53134C2FBB9BFFA655E685",
+        "name": "Isaias Gonzalez",
+        "day": "A",
+        "arrival": "2026-11-12T21:23:07.677Z",
+        "start": "2026-11-10T20:45:00Z",
+        "calculated": 2915,
+        "deduction": 20,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
       }
     ],
     "team": null,
