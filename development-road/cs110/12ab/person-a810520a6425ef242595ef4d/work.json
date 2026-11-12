@@ -8209,10 +8209,10 @@
       "huddle": {
         "mission": "A story I want to see a Minecraft mod a playable goal is to throw a poke-ball at a Minecraft mob",
         "framework": "My team choose P2P for simple fact it will help us use oganized sources and help us with engine setup.",
-        "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\noutput/scene · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nbuild/configure · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ninputs/assets · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ntest+ handoff · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\n"
+        "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\noutput/scene · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nbuild/configure · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ninputs/assets · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ntest+ handoff · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\nOutput/scene-\n\ntest+handoff-\n"
       },
       "pipelineBoard": {
-        "notes": "Background-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\n",
+        "notes": "Background-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\nOutput/scene-\n\ntest+handoff-\n",
         "strokes": [
           {
             "tool": "pen",
@@ -25447,10 +25447,10 @@
     "huddle": {
       "mission": "A story I want to see a Minecraft mod a playable goal is to throw a poke-ball at a Minecraft mob",
       "framework": "My team choose P2P for simple fact it will help us use oganized sources and help us with engine setup.",
-      "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\noutput/scene · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nbuild/configure · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ninputs/assets · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ntest+ handoff · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\n"
+      "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\noutput/scene · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nbuild/configure · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ninputs/assets · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\ntest+ handoff · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\nOutput/scene-\n\ntest+handoff-\n"
     },
     "pipelineBoard": {
-      "notes": "Background-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\n",
+      "notes": "Background-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\nOutput/scene-\n\ntest+handoff-\n",
       "strokes": [
         {
           "tool": "pen",
