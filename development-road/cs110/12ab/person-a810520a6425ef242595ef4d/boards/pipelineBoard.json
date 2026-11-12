@@ -1,5 +1,5 @@
 {
-  "notes": "learn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.",
+  "notes": "Background-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\n",
   "strokes": [
     {
       "tool": "pen",
@@ -773,7 +773,10 @@
       "w": 0.3891188907948601,
       "h": 0.12347729039716837,
       "color": "#153f48",
-      "text": "output/scene"
+      "text": "output/scene",
+      "start": "2026-11-11T15:45",
+      "end": "2026-11-11T16:30",
+      "owner": "Mio"
     },
     {
       "id": "64aef9f2-ddc8-43b2-8a84-ddab17912b4d",
@@ -783,7 +786,10 @@
       "w": 0.39483447589567355,
       "h": 0.11848546455871016,
       "color": "#153f48",
-      "text": "build/configure"
+      "text": "build/configure",
+      "start": "2026-11-11T15:45",
+      "end": "2026-11-11T16:30",
+      "owner": "Isaias"
     },
     {
       "id": "ef1dbb3e-0e70-4c3b-9e0a-d3a647ce3338",
@@ -793,7 +799,10 @@
       "w": 0.33196233335463093,
       "h": 0.1219494073819436,
       "color": "#153f48",
-      "text": "inputs/assets"
+      "text": "inputs/assets",
+      "owner": "Daniel",
+      "start": "2026-11-11T15:45",
+      "end": "2026-11-11T16:30"
     },
     {
       "id": "1dd9d2f3-2f80-4972-a032-afc0961d5806",
@@ -803,7 +812,10 @@
       "w": 0.37197197850750985,
       "h": 0.09444650593386028,
       "color": "#153f48",
-      "text": "test+ handoff"
+      "text": "test+ handoff",
+      "start": "2026-11-11T15:45",
+      "end": "2026-11-11T16:30",
+      "owner": "Paul"
     }
   ],
   "edges": []
