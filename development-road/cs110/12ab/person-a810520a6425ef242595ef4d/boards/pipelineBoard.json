@@ -1,5 +1,5 @@
 {
-  "notes": "Background-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\nInputs/assets-\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\nOutput/scene-\n\ntest+handoff-\n",
+  "notes": "Background-\nlearn the lore from both source material (Minecraft and Pokemon). Build the world of Minecraft a free roam where the main character is a combination of Ash and Steve.\n\nInputs/assets- Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nbuild/configure-\nPut the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput/scene-\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\ntest+handoff-\n We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
   "strokes": [
     {
       "tool": "pen",
@@ -781,7 +781,7 @@
     {
       "id": "64aef9f2-ddc8-43b2-8a84-ddab17912b4d",
       "kind": "rect",
-      "x": 0.3523755898511766,
+      "x": 0.35237558985117656,
       "y": 0.4033709989145811,
       "w": 0.39483447589567355,
       "h": 0.11848546455871016,
@@ -816,7 +816,26 @@
       "start": "2026-11-11T15:45",
       "end": "2026-11-11T16:30",
       "owner": "Paul"
+    },
+    {
+      "id": "d42e1f5f-8ce0-4fa8-a8c3-10e5f224ab06",
+      "kind": "rect",
+      "x": 0.4414182220862385,
+      "y": 0.24954930755840676,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": ""
     }
   ],
-  "edges": []
+  "edges": [
+    {
+      "id": "6a7c6e60-48d5-49a4-a717-6dd3e834941b",
+      "from": "94ea1e29-a906-42ba-ad3e-fb766a2fd822",
+      "fromPort": "e",
+      "to": "d42e1f5f-8ce0-4fa8-a8c3-10e5f224ab06",
+      "toPort": "w",
+      "color": "#153f48"
+    }
+  ]
 }
