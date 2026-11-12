@@ -24,7 +24,7 @@
         "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
         "questions": "Out of everything in this pipeline which is more important and why."
       },
-      "currentPage": 51,
+      "currentPage": 52,
       "prepBoard": {
         "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
         "strokes": [
@@ -16763,9 +16763,12 @@
       },
       "taskResults": {
         "f1e25ce5-e695-4fbf-81d9-3bc4d427c905": {
-          "result": "",
-          "done": true
+          "done": true,
+          "result": "What we did was to make the flat world for our project named craftmon "
         }
+      },
+      "reportB": {
+        "execution": "What i did was to make the flat world with the structures for craftmon using unity"
       }
     },
     "receipts": [
@@ -38456,7 +38459,7 @@
         }
       ],
       "invites": [],
-      "revision": 11,
+      "revision": 17,
       "plan": {
         "mission": "a story we want to see is a minecraft mod with aspects of pokemon. a playable goal is to be to throw a pokeball at a minecraft mod",
         "framework": "my team a I choose P2P for the simple fact it will help us with the use of organized sources and will help us with the game engine setup.",
@@ -42717,7 +42720,7 @@
           "owner": "PERSON-32DB4A42A2AF226E95A2B700",
           "due": "2026-11-12T20:30",
           "done": false,
-          "result": ""
+          "result": "i made the unity scene messed with the fbx file on the thing then i worked with text document and made a log to keep track of my work and my ideas that i will share with the team"
         },
         {
           "id": "beb67b75-0e4d-4bf1-84bf-f4ae0e218857",
@@ -42740,8 +42743,8 @@
           "task": "help build hello world",
           "owner": "PERSON-A810520A6425EF242595EF4D",
           "due": "2026-11-12T20:30",
-          "done": false,
-          "result": ""
+          "done": true,
+          "result": "What we did was to make the flat world for our project named craftmon"
         }
       ],
       "form": "FORM-45BB65BC77CE9BCDC045F54E"
@@ -42762,7 +42765,7 @@
       "opinion": "This pipeline can help future projects/stories. As it helped us understand more about proper organization of folders and files, then help us organize the documentation needed as to tell what we did and need to do in the future, also to have a growth mindset and having it grow so you can think more outside and inside the box for more interesting ideas. With this pipeline it can also help the team acknowledge who is a teammate and tool and if they bring anything to the table or if they are worthy to be in the team.",
       "questions": "Out of everything in this pipeline which is more important and why."
     },
-    "currentPage": 51,
+    "currentPage": 52,
     "prepBoard": {
       "notes": "The diagram shows the five main things I learned about game development, from having a growth mindset to importing a custom player in Unity. It explains how to stay organized, document work, and build the foundation for creating a 3D game.",
       "strokes": [
@@ -59501,15 +59504,18 @@
     },
     "taskResults": {
       "f1e25ce5-e695-4fbf-81d9-3bc4d427c905": {
-        "result": "",
-        "done": true
+        "done": true,
+        "result": "What we did was to make the flat world for our project named craftmon "
       }
+    },
+    "reportB": {
+      "execution": "What i did was to make the flat world with the structures for craftmon using unity"
     }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 51,
+    "lastPage": 52,
     "timerMinutes": 10
   }
 }
